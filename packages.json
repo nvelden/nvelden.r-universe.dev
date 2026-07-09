@@ -2,5 +2,13 @@
   {
     "package": "shinyblocks",
     "url": "https://github.com/nvelden/shinyblocks"
+  },
+  {
+    "package": "NGLVieweR",
+    "url": "https://github.com/nvelden/NGLVieweR"
+  },
+  {
+    "package": "geneviewer",
+    "url": "https://github.com/nvelden/geneviewer"
   }
 ]
